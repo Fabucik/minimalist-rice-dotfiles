@@ -1,0 +1,22 @@
+window:
+  padding:
+    x: 6
+    y: 6
+
+colors:
+  # Default colors
+  primary:
+    background: '#454c58'
+    foreground: '#498d85'
+
+  # Normal colors
+  normal:
+    black:   '#151215'
+    red:     '#ea3f62'
+    green:   '#5db052'
+    yellow:  '#dede35'
+    blue:    '#5a9cd0'
+    magenta: '#fa7bd5'
+    cyan:    '#628db4'
+    white:   '#dfd4d9'
+
